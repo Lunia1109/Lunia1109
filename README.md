@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋, 간호사에서 개발자로 이직을 희망하는 김명준입니다.</h1>
+<h2 align="center">안녕하세요 👋, 간호사에서 개발자로 이직을 희망하는 김명준입니다.</h2>
 <h3 align="center">Hello 👋, Aspiring developers who want to change careers from nurses to developers, MyungJun Kim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunia1109&label=Profile%20views&color=0e75b6&style=flat" alt="lunia1109" /> </p>
