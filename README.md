@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunia1109&label=Profile%20views&color=0e75b6&style=flat" alt="lunia1109" /> </p>
 
-- 🌱 I’m currently learning : **JPA**
+- 🌱 I’m currently learning : **JPA**, **AWS Lambda**, **Python**
 
 - 📝 I regularly write articles on : [https://velog.io/@lunia1109/posts](https://velog.io/@lunia1109/posts)
 
